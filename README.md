@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Call me a mememer.
+A mapler at maplesea, aquila.
 
 - 🔭 I’m currently working on terraform and CI/CD.
 - 🌱 I’m currently learning clojure.
