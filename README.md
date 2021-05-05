@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Call me a mememer.
+Call me a mememer, shitposter.
 A mapler at maplesea, aquila.
 
 - 🔭 I’m currently working on terraform and CI/CD.
